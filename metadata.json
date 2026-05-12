@@ -1,0 +1,6 @@
+{
+  "name": "AI Visionary",
+  "description": "An AI-powered application that generates images from text prompts using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI image generation"]
+}
